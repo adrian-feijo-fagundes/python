@@ -1,4 +1,4 @@
-import database
+import codigos_aleatorios.database as database
 
 
 database.criar_tabela()

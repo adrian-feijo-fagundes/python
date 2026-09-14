@@ -42,6 +42,7 @@ Primeiro:
 
 ## Projeto 
 
-- Pesquisar preços de 
+- Pesquisar preços de Coisas
+
 
 ---
