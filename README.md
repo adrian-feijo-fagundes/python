@@ -36,3 +36,12 @@ Primeiro:
     Criar a pasta de destino
 
     Ler um arquivo se já existir a pasta daquela 
+
+---
+# Ideias
+
+## Projeto 
+
+- Pesquisar preços de 
+
+---
